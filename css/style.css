@@ -1,0 +1,111 @@
+/* დაიწყო ჰედერი */
+.box1{
+    border: 2px solid red;
+    background-color: #ffffff;
+    width: 100%;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    border-radius: 30px;
+}
+.logo{
+    padding-left: 152px;
+}
+ul{
+    display: flex;
+
+}
+.li{
+    justify-content: center;
+
+}
+/* დასრულდა ჰედერი */
+
+
+/* დაიწყო სექცია1 */
+.photo1{
+    width: 1193px;
+    height: 716px;
+    margin-left: 87px;
+    margin-top: 179px;
+}
+
+
+/* დასრულდა სექცია1 */
+
+
+/* დაიწყი სექცია 2 */
+
+.section2{
+    width: 90%;
+    margin: 145px auto 166px auto; 
+    color: black;
+    padding-top: 145px;
+    display: flex;
+}
+h2{
+    font-size: 28px;
+    margin-bottom: 71px;
+}
+.cards{
+    /* border: 2px solid blue; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+width: 23%;
+height: 467px;
+background-color: #ffffff;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.cardf{
+    padding: 30px 56px 111px 55px;
+}
+.div0{
+    display: flex;
+    justify-content: space-between;
+    width: 210px;
+    height: 35px;
+    font-size: 13px;
+    margin: 111px 30px 66px 30px;
+}
+.div1{
+    width:105px ;
+  height:35px ;
+    background-color:#F8F8F8 ;
+
+}
+.div2{
+    width: 105px;
+    height: 35px;
+   background-color: #E7E7E7;
+
+}
+
+/* დასრულდა სექცია 2 */
+
+
+
+/* დაიწყო ფუტერი */
+footer{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between   ;
+    padding: 140px 66px 14px 30px;
+}
+.div_kontakt{
+    line-height: 41px;
+}
+h1{
+    font-size: 14px;
+}
+footer p{
+    font-size: 14px;
+}
+/* დასრულდა ფუტერი */
